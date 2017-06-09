@@ -1,0 +1,17 @@
+{
+    "name": "simple-mvc",
+    "authors": [
+        {
+            "name": "Arshad M",
+            "email": "me@arshu.in"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.4"
+    },
+    "autoload": {
+        "classmap": [
+            "app/models"
+        ]
+    }
+}
