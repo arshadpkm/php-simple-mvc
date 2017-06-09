@@ -8,8 +8,8 @@ $capsule->addConnection([
 	'driver' => 'mysql',
 	'host'	 => '127.0.0.1',
 	'username' => 'root',
-	'password' => 'Happy@123',
-	'database' => 'vahan',
+	'password' => 'password',
+	'database' => 'database',
 	'chartset' => 'utf8',
 	'collation' => 'utf8_unicode_ci',
 	'prefix' => ''
