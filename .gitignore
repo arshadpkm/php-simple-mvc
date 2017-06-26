@@ -3,3 +3,6 @@ composer.phar
 composer.lock
 readme
 app/database.php
+public/assets/*
+bower_components/*
+node_modules/*
